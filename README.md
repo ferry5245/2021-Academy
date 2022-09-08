@@ -30,7 +30,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
   > Sebagai mentee  
   > Website link -> https://rofiansyah.github.io/
-- [Ferry Chandra](https://github.com/ferry5245) [FEY]
+- [Ferry Chandra](http://ferrychandra.my.id) [FEY]
   > Sebagai mentee  
   > Website link -> https://ferry5245.github.io/
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
